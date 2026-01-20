@@ -1,0 +1,20 @@
+
+{
+  "name": "宏村雅游",
+  "short_name": "宏村导览",
+  "description": "安徽宏村深度旅游数字化指南",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/826/826070.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#fcfcfc",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
