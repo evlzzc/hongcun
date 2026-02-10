@@ -11,7 +11,7 @@ export const INITIAL_PLAN: TravelPlan = {
           name: '南湖 (Nanhu Lake)',
           description: '宏村的“门面”，仿西湖平湖秋月。清晨的南湖烟雨蒙蒙，是拍摄宏村全景的最佳地点。',
           time: '07:30 - 09:00',
-          image: 'https://images.unsplash.com/photo-1599591037482-6f2964956108?q=80&w=800&auto=format&fit=crop'
+          image: 'https://img1.qunarzz.com/travel/d5/1710/99/7e0f409865dbd4b5.jpg'
         },
         {
           id: '2',
@@ -34,7 +34,7 @@ export const INITIAL_PLAN: TravelPlan = {
           name: '承志堂',
           description: '被称为“民间故宫”，其木雕艺术登峰造极，是宏村最具代表性的宅院。',
           time: '15:00 - 16:30',
-          image: 'https://images.unsplash.com/photo-1449495940464-370af3320b2d?q=80&w=800&auto=format&fit=crop'
+          image: 'https://img1.qunarzz.com/travel/d8/1808/9c/d149fca73a83e1b5.jpg'
         }
       ],
       evening: [
@@ -64,7 +64,7 @@ export const INITIAL_PLAN: TravelPlan = {
           name: '木坑竹海',
           description: '万亩竹林，空气极其清新。在这里体验《卧虎藏龙》里的竹林风韵。',
           time: '13:30 - 16:00',
-          image: 'https://images.unsplash.com/photo-1528181304800-2f140819ad52?q=80&w=800&auto=format&fit=crop'
+          image: 'https://youimg1.c-ctrip.com/target/100511000000qozkrAAEE.jpg'
         }
       ],
       evening: []
