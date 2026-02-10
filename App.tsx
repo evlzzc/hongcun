@@ -30,7 +30,7 @@ const App: React.FC = () => {
       <header className="relative h-[35vh] md:h-[50vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-black/40 z-10"></div>
         <img 
-          src="https://images.unsplash.com/photo-1524143394627-2c5957095977?q=80&w=1600&auto=format&fit=crop" 
+          src="https://picsum.photos/seed/hongcun/1600/900" 
           alt="Hongcun" 
           className="absolute inset-0 w-full h-full object-cover"
         />
